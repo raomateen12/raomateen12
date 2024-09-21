@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I’m Rao Mateen, a passionate and enthusiastic web developer with experience in creating responsive, interactive web applications using modern tools and technologies. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 <!--
 **raomateen12/raomateen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-xxax
+
